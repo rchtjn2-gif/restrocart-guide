@@ -36,6 +36,9 @@ RestroCart designs and makes customised uniforms, tableware and merchandise for 
 - [Barista aprons: what your coffee bar actually needs](barista-aprons.html)
 - [Choosing chef coat fabric for hot Indian kitchens](chef-coat-fabric.html)
 - [Menu cards that match your brand: wood, MDF or paper?](menu-card-materials.html)
+- [Cork, MDF, leatherette or paper: choosing restaurant coasters](coaster-materials.html)
+- [Opening a restaurant or cafe: a branded-supplies timeline that works backwards](opening-supplies-timeline.html)
+- [Make restaurant uniforms last twice as long: a laundry and care routine](uniform-care-laundry.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at RestroCart. For the latest data and features, always check [RestroCart](https://restrocart.com/) directly.
