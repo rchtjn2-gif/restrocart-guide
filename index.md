@@ -43,6 +43,9 @@ RestroCart designs and makes customised uniforms, tableware and merchandise for 
 - [What FSSAI expects food handlers to wear, and how to turn it into a uniform spec](fssai-kitchen-uniforms.html)
 - [Kitchen uniforms by rank: a simple colour-coding system for a brigade](kitchen-brigade-uniforms.html)
 - [Sizing a restaurant uniform order: measurements, size sets and spares](uniform-sizing-order.html)
+- [Monsoon rainwear for restaurant staff: riders, valets and outdoor teams](monsoon-rainwear.html)
+- [QR table stands and tent cards: how to design small table signs that get scanned](qr-table-stands.html)
+- [Staff name badges for restaurants: materials, fixings and what to print](staff-name-badges.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at RestroCart. For the latest data and features, always check [RestroCart](https://restrocart.com/) directly.
