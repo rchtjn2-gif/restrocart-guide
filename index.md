@@ -39,6 +39,10 @@ RestroCart designs and makes customised uniforms, tableware and merchandise for 
 - [Cork, MDF, leatherette or paper: choosing restaurant coasters](coaster-materials.html)
 - [Opening a restaurant or cafe: a branded-supplies timeline that works backwards](opening-supplies-timeline.html)
 - [Make restaurant uniforms last twice as long: a laundry and care routine](uniform-care-laundry.html)
+- [Embroidery, print, DTF or patch: branding restaurant uniforms the right way](embroidery-vs-printing.html)
+- [What FSSAI expects food handlers to wear, and how to turn it into a uniform spec](fssai-kitchen-uniforms.html)
+- [Kitchen uniforms by rank: a simple colour-coding system for a brigade](kitchen-brigade-uniforms.html)
+- [Sizing a restaurant uniform order: measurements, size sets and spares](uniform-sizing-order.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at RestroCart. For the latest data and features, always check [RestroCart](https://restrocart.com/) directly.
