@@ -31,5 +31,11 @@ restaurant uniforms India, custom chef coats, barista aprons, cafe uniforms Delh
 
 RestroCart designs and makes customised uniforms, tableware and merchandise for the hospitality industry: chef coats, aprons, staff shirts, wooden and MDF menus, coasters, napkins, badges and tote bags. In-house design, samples before production, delivery anywhere in India.
 
+## More guides
+
+- [Barista aprons: what your coffee bar actually needs](barista-aprons.html)
+- [Choosing chef coat fabric for hot Indian kitchens](chef-coat-fabric.html)
+- [Menu cards that match your brand: wood, MDF or paper?](menu-card-materials.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at RestroCart. For the latest data and features, always check [RestroCart](https://restrocart.com/) directly.
