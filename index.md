@@ -46,6 +46,7 @@ RestroCart designs and makes customised uniforms, tableware and merchandise for 
 - [Monsoon rainwear for restaurant staff: riders, valets and outdoor teams](monsoon-rainwear.html)
 - [QR table stands and tent cards: how to design small table signs that get scanned](qr-table-stands.html)
 - [Staff name badges for restaurants: materials, fixings and what to print](staff-name-badges.html)
+- [Cloth napkins, placemats and runners for restaurants: fabric, branding and how many to order](cloth-napkins-placemats.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at RestroCart. For the latest data and features, always check [RestroCart](https://restrocart.com/) directly.
